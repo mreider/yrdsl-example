@@ -1,0 +1,13 @@
+{
+  "siteName": "Your sale name",
+  "subtitle": "a short tagline",
+  "location": "Your city, ST",
+  "description": "Replace this with a sentence or two about what's going on.",
+  "theme": "conservative",
+  "currency": "USD",
+  "language": "en",
+  "contact": {
+    "email": "you@example.com",
+    "notes": "How to pay (cash? Venmo?). Pickup hours."
+  }
+}

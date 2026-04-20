@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sample-01",
+    "title": "Replace me with your first item",
+    "price": 25,
+    "tags": ["replace-this"],
+    "added": "2026-04-20",
+    "description": "Delete this entry and add your own. Drop photos in public/photos/ and reference them as \"/photos/your-photo.jpg\".",
+    "reserved": null
+  }
+]
