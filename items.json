@@ -5,7 +5,7 @@
     "price": 450,
     "tags": ["furniture", "living room"],
     "added": "2026-04-17",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=80",
+    "image": "photos/couch.jpg",
     "description": "Three-seat sectional in charcoal linen. Purchased in 2019, lightly used, no pet hair, no smokers. One small scuff on the back-left leg. Solid frame, cushions still firm. 94\" × 36\" × 32\". Cash and carry; you'll need two people and a truck or SUV to move it.",
     "reserved": null
   },
@@ -15,7 +15,7 @@
     "price": 320,
     "tags": ["bikes", "outdoor", "vintage"],
     "added": "2026-04-16",
-    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=1200&q=80",
+    "image": "photos/bike.jpg",
     "description": "Classic lugged-steel road bike, 56cm frame (fits riders around 5'9\" to 6'0\"). Recently tuned: new brake pads, fresh bar tape, drivetrain cleaned and lubed. Friction shifters on the downtube; 2×7 setup. Tires have a season left.",
     "reserved": null
   },
@@ -25,7 +25,7 @@
     "price": 95,
     "tags": ["lighting", "vintage"],
     "added": "2026-04-15",
-    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=1200&q=80",
+    "image": "photos/lamp.jpg",
     "description": "Heavy marble base, 76\" arc. Takes a standard E26 bulb (not included). Small patina on the arm from sun exposure; otherwise clean. Dimmer built into the cord.",
     "reserved": {
       "on": "2026-04-18",
@@ -38,7 +38,7 @@
     "price": 180,
     "tags": ["camera", "vintage", "analog"],
     "added": "2026-04-14",
-    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1200&q=80",
+    "image": "photos/camera.jpg",
     "description": "Well-loved 35mm rangefinder. Light seals redone two years ago. Comes with a 50mm f/1.8 prime and a leather half-case. Shutter fires at all speeds, meter accurate. Two rolls of film included.",
     "reserved": null
   },
@@ -48,7 +48,7 @@
     "price": 25,
     "tags": ["kitchen", "appliances"],
     "added": "2026-04-13",
-    "image": "https://images.unsplash.com/photo-1612883644392-75ee4d9b8208?w=1200&q=80",
+    "image": "photos/toaster.jpg",
     "description": "Basic 2-slice chrome toaster. Six browning levels, bagel + defrost settings, crumb tray pulls out cleanly. Works perfectly; we just upgraded to a 4-slice.",
     "reserved": null
   },
@@ -58,7 +58,7 @@
     "price": 220,
     "tags": ["furniture", "dining"],
     "added": "2026-04-12",
-    "image": "https://images.unsplash.com/photo-1577140917170-285929fb55b7?w=1200&q=80",
+    "image": "photos/table.jpg",
     "description": "Solid oak, pedestal base, 48\" diameter. A couple of watermarks on the top; easy to sand and re-oil if you care. Chairs not included.",
     "reserved": null
   },
@@ -68,8 +68,18 @@
     "price": 60,
     "tags": ["music", "vinyl"],
     "added": "2026-04-11",
-    "image": "https://images.unsplash.com/photo-1629276301820-4e0e3f8a2fc2?w=1200&q=80",
+    "image": "photos/records.jpg",
     "description": "Six records, all classic-rock staples. Sleeves worn but wax is clean. List on request or come look.",
+    "reserved": null
+  },
+  {
+    "id": "plants-01",
+    "title": "Houseplants (various)",
+    "price": 15,
+    "tags": ["plants", "home"],
+    "added": "2026-04-10",
+    "image": "photos/plants.jpg",
+    "description": "Assorted pothos, snake plants, and a fiddle-leaf fig. $15 each, or take the lot for $60. All healthy, no pests.",
     "reserved": null
   }
 ]
