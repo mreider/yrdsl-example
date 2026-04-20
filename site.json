@@ -1,13 +1,18 @@
 {
-  "siteName": "Your sale name",
-  "subtitle": "a short tagline",
-  "location": "Your city, ST",
-  "description": "Replace this with a sentence or two about what's going on.",
+  "siteName": "Spring Purge",
+  "subtitle": "everything must go",
+  "location": "Austin, TX",
+  "description": "Eight years in Austin and it's time for a change. Rather than haul everything across the country, we'd love for our stuff to find good homes nearby.",
   "theme": "conservative",
   "currency": "USD",
   "language": "en",
+  "endsAt": "2026-06-01T17:00:00-05:00",
   "contact": {
-    "email": "you@example.com",
-    "notes": "How to pay (cash? Venmo?). Pickup hours."
+    "email": "demo@example.com",
+    "notes": "Cash or Venmo. Pickup only, evenings after 6 or weekends."
+  },
+  "about": {
+    "heading": "Why we're selling",
+    "body": "We're moving cross-country. Everything here is in working condition, priced to move, and up for reasonable offers. Shoot us a note to set up a pickup time."
   }
 }
