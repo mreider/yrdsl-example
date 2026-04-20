@@ -1,7 +1,7 @@
 # yrdsl-example
 
 A live demo of a self-hosted yard sale built with
-[yrdsl-self-hosted](https://github.com/mreider/yrdsl-self-hosted).
+[yrdsl-self-hosted](https://github.com/KuvopLLC/yrdsl-self-hosted).
 
 **Live:** <https://mreider.github.io/yrdsl-example/>
 
@@ -12,11 +12,11 @@ reference them as `/photos/<file>.jpg`.
 
 ## Want your own?
 
-1. Go to the [template repo](https://github.com/mreider/yrdsl-self-hosted).
+1. Go to the [template repo](https://github.com/KuvopLLC/yrdsl-self-hosted).
 2. Click **Use this template**.
 3. Edit `site.json` + `items.json`, push, done.
 
-Full instructions: <https://github.com/mreider/yrdsl-self-hosted#readme>
+Full instructions: <https://github.com/KuvopLLC/yrdsl-self-hosted#readme>
 
 ## Want the hosted version instead?
 
