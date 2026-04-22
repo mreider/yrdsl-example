@@ -43,16 +43,6 @@
     "reserved": null
   },
   {
-    "id": "toaster-01",
-    "title": "Chrome 2-slice toaster",
-    "price": 25,
-    "tags": ["kitchen", "appliances"],
-    "added": "2026-04-13",
-    "image": "photos/toaster.jpg",
-    "description": "Basic 2-slice chrome toaster. Six browning levels, bagel + defrost settings, crumb tray pulls out cleanly. Works perfectly; we just upgraded to a 4-slice.",
-    "reserved": null
-  },
-  {
     "id": "table-01",
     "title": "Oak dining table, seats 4",
     "price": 220,
